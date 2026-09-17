@@ -12,8 +12,14 @@ BrainPulse is a production-grade React Native application designed for student e
 ## Setup & Running Instructions
 
 ### 1. Prerequisites
-- Node.js (v18 or higher)
-- Expo Go App on your mobile device (Android/iOS) or an active Emulator
+- [Node.js](https://nodejs.org/) installed
+- [Expo Go](https://expo.dev/go) app on your mobile device (optional for mobile testing)
+
+## Tech Stack
+
+- **Framework:** React Native (Expo)
+- **Language:** TypeScript
+- **State/Storage:** React State & Local Storage
 
 ### 2. Installation
 ```bash
@@ -22,4 +28,6 @@ cd "C:\Users\DELL\Documents\FLASHCARD APP brainpulse"
 
 # Install dependencies (using legacy peer deps for Expo 57 compatibility)
 npm install --legacy-peer-deps  
-## Latest Updates 
+## Latest Updates
+
+
