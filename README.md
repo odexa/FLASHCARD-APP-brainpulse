@@ -21,4 +21,5 @@ BrainPulse is a production-grade React Native application designed for student e
 cd "C:\Users\DELL\Documents\FLASHCARD APP brainpulse"
 
 # Install dependencies (using legacy peer deps for Expo 57 compatibility)
-npm install --legacy-peer-deps
+npm install --legacy-peer-deps  
+## Latest Updates 
